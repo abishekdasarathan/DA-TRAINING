@@ -1,0 +1,8 @@
+print("SSLC MARK DETAILS")
+print("TAMIL '83'")
+print("ENGLISH '85'")
+print("MATHS '89'")
+print("SCIENCE '98'")
+print("SOCIAL '100'")
+print("TOTAL '455'")
+print("PERCENTAGE '91'")
